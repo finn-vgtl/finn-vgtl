@@ -1,4 +1,4 @@
-# 👋 Hello there! I'm Finn Voigtländer
+# 👋 Hello there! I'm Finn
 ### Todo List:
 - [x] Create Profile README
 - [ ] Come up with something original
