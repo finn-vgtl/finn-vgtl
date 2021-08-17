@@ -1,5 +1,8 @@
-### Hi there 👋
-
+# 👋 Hello there! I'm Finn Voigtländer
+### Todo List:
+- [x] Create Profile README
+- [ ] Come up with something original
+- [ ] update Profile README
 <!--
 **finn-vgtl/finn-vgtl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
